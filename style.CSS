@@ -1,0 +1,133 @@
+Body {
+    margin: 0;
+    text-align: center;
+    background-image: linear-gradient(180deg,lightgreen ,lightblue);
+    align-content: center;
+
+}
+
+.Picture {
+border-radius:50%;
+  width:200px;
+height:200px;
+    
+}
+
+.Parallax-inner {
+    text-align: center;
+    padding-top: 200px;
+    align-content: center;
+}
+
+.Lineheading {
+    font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+    color: blue;
+}   
+
+.menu li {
+display: inline;
+padding-bottom:100px;
+width: 200px;
+}
+
+.menu{
+    width:1000px;
+    position: fixed;
+}
+
+img{
+    text-align: center;
+}
+
+.links {
+    float: left;
+    width:400px;
+    font-family: cursive;
+    font-size: 20;
+}
+
+.Parabout{
+    font-size:30px;
+}
+
+h1{
+    font-size:60px;
+}
+
+.Topic{
+    font-size:50px;
+}
+
+.About{
+    background-color: aquamarine;
+}
+
+hr{
+    text-align:center;
+    width:200px;
+    height:20px;
+    background: black;
+}
+
+.FavoriteStars{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+    color:forestgreen;   
+}
+
+a{
+    font-size:30px;
+}
+
+.Accomplishments{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+    color:darkmagenta;      
+}
+
+.Inspiration{
+     font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+    color:firebrick;   
+}
+
+.Contact{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+    color:darkorange;
+}
+
+h2{
+    font-size:40px;
+}
+
+.Cont{
+    font-size:20px;
+}
+
+.Roger{
+    width:500px;
+}
+
+.Rogers{
+    width:500px;
+    height:450px;
+}
+
+.Roger:hover{
+    transform:scale(0.9);
+}
+
+.Rogers:hover{
+    transform:scale(0.9);
+}
+
+.Acc:hover{
+    text-transform:uppercase;
+}
